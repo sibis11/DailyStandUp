@@ -1,0 +1,52 @@
+﻿
+body {
+    background-color: #fff;
+    font: smaller verdana,sans-serif;
+    margin: 10px 3px 3px 3px
+}
+
+h1 {
+    color: #ffd800;
+    font-size: 1.8em;
+    text-align: center;
+    font-family: Calibri, Arial
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td p {
+    text-align: left;
+    color: #000000
+}
+
+th {
+    background-color: #54585A;
+    font-size: 13px;
+    text-align: left;
+    color: #ffd800;
+    border-bottom: 1px solid #54585A
+}
+
+a {
+    font: bold 14px arial, verdala;
+    color: #54585A;
+}
+
+td {
+    padding-bottom: 5px;
+    line-height: 0.5;
+    text-align: left
+}
+
+a:hover {
+    color: #54585A;
+    background-color: #EADA24
+}
+
+img {
+    float: right
+}
+
